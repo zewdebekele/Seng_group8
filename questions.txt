@@ -1,0 +1,22 @@
+1. What command initializes a new Git repository?
+2. How do you clone an existing repository from GitHub?
+3. How do you check the remote URL of your repository?
+4. How do you check the current status of files in your repository?
+5. How do you stage a single file for commit?
+6. How do you stage all modified files at once?
+7. What command is used to commit staged changes with a message?
+8. Which command shows the differences between unstaged changes and the last commit?
+9. How do you see the differences for files that are already staged for commit?
+10. Which command displays the commit history?
+11. How do you show commit history in one line per commit?
+12. How do you list all local branches?
+13. How do you create a new branch?
+14. How do you switch to an existing branch?
+15. How can you create a new branch and switch to it at the same time?
+16. How do you merge a branch into your current branch?
+17. What happens if there are conflicting changes during a merge?
+18. What command is used to pull changes from the remote repository?
+19. What command is used to push your local commits to the remote repository?
+20. What should you do if `git pull` says “Your local changes would be overwritten by merge”?
+21. What is a Git conflict?
+22. When does a conflict occur?
